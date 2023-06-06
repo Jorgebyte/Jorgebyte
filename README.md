@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jorge</h1>
 <h3 align="center">I am a Mexican developer</h3>
-<h2 align="center">Do not force yourself on a code</h2>
-<h2 align="center">that you know will not compilee</h2>
+<h2 align="center">Do not force yourself on a code that you know will not compile</h2>
 
 
 <h3 align="left">Connect with me:</h3>
